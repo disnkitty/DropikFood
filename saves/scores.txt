@@ -1,0 +1,2 @@
+Player:3
+HighScore:3

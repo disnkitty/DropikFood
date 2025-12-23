@@ -1,0 +1,15 @@
+# Levels Configuration File
+# Format: level:items_required:drop_chance:description
+# items_required - количество предметов для перехода на следующий уровень
+
+1:5:0.3:Easy Start
+2:7:0.4:Getting Faster
+3:9:0.5:Speed Up
+4:11:0.6:Challenge Mode
+5:13:0.7:Expert Level
+6:15:0.75:Master Level
+7:17:0.8:Pro Level
+8:19:0.85:Elite Level
+9:21:0.9:Legendary Level
+10:23:0.95:Impossible Level
+
